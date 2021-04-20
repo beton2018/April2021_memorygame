@@ -1,0 +1,6 @@
+.grid {
+  width: 400px;
+  height: 308px;
+  border: solid black 1px;
+}
+/* the height is orginally 300px but I CHANGED it to 308px */
